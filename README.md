@@ -1,1 +1,6 @@
 # college_club_management_system
+
+
+I successfully created a centralized relational database to manage members, events, and attendance more efficiently. Instead of relying on scattered Google Docs and Excel files, the new system stores all information in three core tables—Members, Events, and Event Registrations—each designed with proper primary keys and foreign key relationships. This structure now allows the club to instantly retrieve accurate data such as who attended a specific event, which members are active, and how participation trends change over time. By building the database in PostgreSQL, all data is now unified, consistent, and easy to update through a single backend.
+
+Implementing the database also brought significant improvements in accuracy, collaboration, and scalability. Queries now replace manual searching, and multiple users can safely access or update records without version conflicts. While migrating from spreadsheets required some initial data cleaning and adjustments, the benefits of the new system far outweigh the challenges. With this completed database in place, the club now has a reliable, organized, and future-ready foundation for managing its growing membership and events.
